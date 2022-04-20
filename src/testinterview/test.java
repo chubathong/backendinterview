@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class test {
 	public static void main(String[] args) {
-	    int m;  // số dòng của ma trậna
+	    int m;  // số dòng của ma trậnaa
 	    int n;  // số cột của ma trận
 	    Scanner scanner = new Scanner(System.in);
 	         
